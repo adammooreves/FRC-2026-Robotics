@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "frc-docs": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": ["--with", "mcp<2", "first-agentic-csa"]
+    }
+  }
+}
